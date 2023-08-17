@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    position: sticky;
+    top: 0;
+    
+    height: 60px;
+    background-color: var(--nav-bar-background-color);
+
+    &__item {
+        display: flex;
+        align-items: center;
+
+        padding: 15px 20px;
+        text-decoration: none;
+        color: var(--text-light);
+
+        &:hover {
+            color: var(--text-light-hover);
+            background-color: var(--nav-bar-background-color-hover);
+        }
+    }
+}

@@ -1,0 +1,79 @@
+.wordList {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    height: calc(100vh - 100px);
+
+    margin-top: 10px;
+    overflow: auto;
+
+    .headerWrapper {
+        position: sticky;
+        top: 0;
+        background-color: #fff;
+    }
+
+    .header {
+        background-color: var(--list-header-background);
+
+    }
+
+    .header,
+    .line {
+        display: flex;
+        width: 100%;
+
+        border-bottom: 1px solid var(--border-color);
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+
+        &__item {
+            flex: 1;
+            display: flex;
+            justify-content: center;
+
+            padding: 0 20px;
+            margin: 5px 0;
+
+            border-right: 1px solid var(--border-color);
+
+            &:last-child {
+                border-right: none;
+            }
+        }
+    }
+
+    .item__learn {
+        display: flex;
+        width: 100%;
+    }
+    .item__learnItem {
+        flex: 1;
+    }
+
+    .lineItemHint {
+        display: flex;
+        margin-right: 5px;
+    }
+
+    .icon {
+        display: flex;
+        align-items: center;
+
+        height: 100%;
+        width: 20px;
+
+        margin: 0 5px;
+        padding: 2px;
+
+        border-radius: 5px;
+
+        cursor: pointer;
+
+
+        &:hover {
+            background-color: var(--list-header-background-hover);
+        }
+    }
+}
