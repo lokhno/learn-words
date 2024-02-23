@@ -43,6 +43,10 @@ const categoryData: Category[] = [
         id: 11,
         title: "adjectives B",
     },
+    {
+        id: 12,
+        title: "adjectives D",
+    },
 ]
 
 export default categoryData;
