@@ -47,6 +47,18 @@ const categoryData: Category[] = [
         id: 12,
         title: "adjectives D",
     },
+    {
+        id: 111,
+        title: "2705",
+    },
+    {
+        id: 112,
+        title: "повторение слов из чата 0406",
+    },
+    {
+        id: 113,
+        title: "повторение слов из чата 3006",
+    },
 ]
 
 export default categoryData;
