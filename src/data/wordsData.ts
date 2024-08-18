@@ -1519,7 +1519,7 @@ const words: Word[] = [
         ru: "клей",
     },
     {
-        id: 261,
+        id: 26199,
         categoryId: 112,
         en: "to be glued",
         ru: "быть приклеенным",
@@ -1566,12 +1566,133 @@ const words: Word[] = [
         en: "Convince",
         ru: "Убеждать",
     },
+    {
+        id: 261,
+        categoryId: 113,
+        en: "loaf",
+        ru: "буханка",
+    },
+    {
+        id: 262,
+        categoryId: 113,
+        en: "envelope",
+        ru: "конверт",
+    },
+    {
+        id: 263,
+        categoryId: 113,
+        en: "accomodation",
+        ru: "размещение",
+    },
+    {
+        id: 264,
+        categoryId: 113,
+        en: "thoroughly",
+        ru: "тщательно",
+    },
+    {
+        id: 265,
+        categoryId: 113,
+        en: "enormous",
+        ru: "огромный",
+    },
+    {
+        id: 266,
+        categoryId: 113,
+        en: "niece",
+        ru: "племянница",
+    },
+    {
+        id: 267,
+        categoryId: 113,
+        en: "tulip",
+        ru: "тюльпан",
+    },
+    {
+        id: 268,
+        categoryId: 113,
+        en: "pigeon",
+        ru: "голубь",
+    },
+    {
+        id: 269,
+        categoryId: 113,
+        en: "screwdriver",
+        ru: "отвертка",
+    },
+    {
+        id: 270,
+        categoryId: 113,
+        en: "saw",
+        ru: "пила",
+    },
+    {
+        id: 271,
+        categoryId: 113,
+        en: "hammer",
+        ru: "молоток",
+    },
+    {
+        id: 272,
+        categoryId: 113,
+        en: "scenery",
+        ru: "пейзаж",
+    },
+    {
+        id: 273,
+        categoryId: 113,
+        en: "hangover",
+        ru: "похмелье",
+    },
+    {
+        id: 274,
+        categoryId: 113,
+        en: "bowl",
+        ru: "миска/пиалка",
+    },
+    {
+        id: 275,
+        categoryId: 113,
+        en: "evidence",
+        ru: "доказательство",
+    },
+    {
+        id: 276,
+        categoryId: 113,
+        en: "occasion",
+        ru: "случай",
+    },
+    {
+        id: 277,
+        categoryId: 113,
+        en: "nobility",
+        ru: "дворянство",
+    },
+    {
+        id: 278,
+        categoryId: 113,
+        en: "instead",
+        ru: "вместо",
+    },
+    {
+        id: 279,
+        categoryId: 113,
+        en: "to carry",
+        ru: "нести(в руках)",
+    },
+    {
+        id: 280,
+        categoryId: 113,
+        en: "feast",
+        ru: "пир",
+    },
     // {
     //     id: 200,
-    //     categoryId: 112,
+    //     categoryId: 113,
     //     en: "qwe",
     //     ru: "qwe",
     // },
+    
 
 ]
 //refugee 
