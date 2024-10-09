@@ -63,6 +63,10 @@ const categoryData: Category[] = [
         id: 113,
         title: "повторение слов из чата 3006",
     },
+    {
+        id: 114,
+        title: "Погода",
+    },
 ]
 
 export default categoryData;
