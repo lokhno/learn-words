@@ -71,6 +71,10 @@ const categoryData: Category[] = [
         id: 115,
         title: "эмоции",
     },
+    {
+        id: 116,
+        title: "27112024"
+    }
 ]
 
 export default categoryData;
