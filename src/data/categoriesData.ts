@@ -79,6 +79,22 @@ const categoryData: Category[] = [
         id: 117,
         title: "HALLOWEEN 🎃"
     },
+    {
+        id: 118,
+        title: "Описани людей"
+    },
+    {
+        id: 119,
+        title: "Слова из игры 25.03"
+    },
+    {
+        id: 120,
+        title: "Город"
+    },
+    {
+        id: 121,
+        title: "Урок 25.03"
+    },
 ]
 
 export default categoryData;
