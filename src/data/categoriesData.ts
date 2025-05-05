@@ -95,6 +95,14 @@ const categoryData: Category[] = [
         id: 121,
         title: "Урок 25.03"
     },
+    {
+        id: 122,
+        title: "Урок 07.04.2025"
+    },
+    {
+        id: 123,
+        title: "ЖИВОТНЫЕ"
+    }
 ]
 
 export default categoryData;
