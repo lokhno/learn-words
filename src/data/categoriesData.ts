@@ -102,6 +102,10 @@ const categoryData: Category[] = [
     {
         id: 123,
         title: "ЖИВОТНЫЕ"
+    },
+    {
+        id: 124,
+        title: "Revision"
     }
 ]
 
